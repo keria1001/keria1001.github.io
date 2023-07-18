@@ -1,4 +1,14 @@
 # keria1001.github.io
-# Keria's Recomendation
-# lenovo IdeaPad 
+
+
+
+## lenovo IdeaPad 
+
 ![alt text](laptop.jpg)
+
+## Keria's Recomendation
+
+## Resources
+
+1. https://www.cpubenchmark.net/
+2. 
